@@ -1,0 +1,15 @@
+{
+    "name": "angel/job15",
+    "autoload": {
+        "psr-4": {
+            "Angel\\Job15\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "angel-putz",
+            "email": "angel.putz@laplateforme.io"
+        }
+    ],
+    "require": {}
+}
